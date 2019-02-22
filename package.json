@@ -27,9 +27,6 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
-
-    "deploy": "gatsby build && gh-pages -d public -b master -r https://github.com/yeope/yeope-wiki",
-
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
 
